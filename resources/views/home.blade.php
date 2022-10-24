@@ -170,7 +170,7 @@
 								</h3>
 							</div>
 							<div class="text">
-								<p>Nama saya <span>Ahmad Fadillah.</span> Saya seorang Web Developer, Desain Grafis dan Freelancer. Saya sekarang berumur 22 tahun.</p>
+								<p>Halo, nama Saya Ahmad Fadillah. Biasa dipanggil Adhy, Saya lulusan dari Universitas Muslim Indonesia Fakultas Ilmu Komputer Program Studi Teknik Informatika. Saya Lulus pada bulan Juli tahun 2022 dan meraih predikat Cumlaude dengan IPK 3.88. Selama 5 tahun berpengalaman di bidang IT, Saya juga menguasai beberapa keahlian seperti Project Management, Laravel, PHP, IT Support, Graphic Design, dan Database.</p>
 							</div>
 							<div class="edrea_tm_button">
 								<a href="#">Learn More</a>
