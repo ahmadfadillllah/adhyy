@@ -218,7 +218,7 @@
 													<li>
 														<div class="list_inner">
 															<i class="icon-location"></i>
-															<span><a href="#" class="href_location">Jl. Baji Gau No.4</a></span>
+															<span><a href="#" class="href_location">Hidden</a></span>
 														</div>
 													</li>
 													<li>
@@ -324,7 +324,7 @@
 																	<span>2018 - 2022</span>
 																</div>
 																<div class="place">
-																	<h3>Universitas Muslin Indonesia</h3>
+																	<h3>Universitas Muslim Indonesia</h3>
 																	<span>S1 - Teknik Informatika</span>
 																</div>
 															</div>
