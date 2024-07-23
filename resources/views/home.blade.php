@@ -236,7 +236,7 @@
 												</ul>
 											</div>
 											<div class="edrea_tm_button full">
-												<a href="https://drive.google.com/file/d/14sVko-xSt5abjH85U2OZ2EoH_N_aVExe/view?usp=sharing" target="_blank" download>Download CV</a>
+												<a href="https://instagram.com/ahmad.fadilllah" target="_blank" download>My Instagram</a>
 											</div>
 										</div>
 									</div>
